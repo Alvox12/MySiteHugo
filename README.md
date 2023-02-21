@@ -2,6 +2,8 @@
 
 This is my web page using the framework **Hugo** and using the theme **smigle**.
 
+## Git Clone
+
 In order to clone also the submodule *themes/smigle* you must use the next command.
 
 ```

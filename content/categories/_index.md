@@ -1,0 +1,5 @@
+---
+title: Categorías
+layout: default
+---
+

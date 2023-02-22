@@ -1,7 +1,7 @@
 ---
 title: "Cursos desarrollo web"
 date: 2023-02-22T20:40:31+01:00
-draft: true
+draft: false
 ---
 
 Agrego un listado de cursos de desarrollo web, que me parecieron interesantes. *No descarto actualizar esta entrada en un futuro.*

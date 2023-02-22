@@ -4,7 +4,7 @@ date: 2023-02-22T20:40:31+01:00
 draft: false
 ---
 
-Agrego un listado de cursos de desarrollo web, que me parecieron interesantes. *No descarto actualizar esta entrada en un futuro.*
+Agrego un listado de cursos de desarrollo web que me parecieron interesantes. *No descarto actualizar esta entrada en un futuro.*
 
 - [Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course](https://youtu.be/5PdEmeopJVQ)
   

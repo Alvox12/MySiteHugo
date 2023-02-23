@@ -1,10 +1,14 @@
 ---
-title: "Cursos desarrollo web"
+title: "Cursos programación"
 date: 2023-02-22T20:40:31+01:00
 draft: false
 ---
 
-Agrego un listado de cursos de desarrollo web que me parecieron interesantes. *No descarto actualizar esta entrada en un futuro.*
+Agrego un listado de cursos de programación que me parecieron interesantes. 
+
+***Esta entrada irá siendo actualizada de cara al futuro.***
+
+## Desarrollo web
 
 - [Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course](https://youtu.be/5PdEmeopJVQ)
   
@@ -17,7 +21,12 @@ Agrego un listado de cursos de desarrollo web que me parecieron interesantes. *N
 - [ASP.NET Core Web API .NET 6 2022 **(Playlist)**](https://youtu.be/_8nLSsK5NDo?list=PL82C6-O4XrHdiS10BLh23x71ve9mQCln0)
 
 
+## Sistemas operativos
+
+- [Introduction to Linux – Full Course for Beginners](https://youtu.be/sWbUDq4S6Y8)
 
 	
-	
+## Otros 
+
+- [FreeCodeCamp popular programming courses playlist](https://youtube.com/playlist?list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC)
 	

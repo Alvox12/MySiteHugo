@@ -6,8 +6,15 @@
     <description>Recent content in Css on My Blog en Hugo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2023 20:40:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cursos programación</title>
+      <link>http://localhost:1313/posts/webdevcourses/</link>
+      <pubDate>Wed, 22 Feb 2023 20:40:31 +0100</pubDate>
+      <guid>http://localhost:1313/posts/webdevcourses/</guid>
+      <description>Agrego un listado de cursos de programación que me parecieron interesantes.&#xA;Esta entrada irá siendo actualizada de cara al futuro.&#xA;Desarrollo web Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course&#xA;Spring Boot and Angular Tutorial - Build a Reddit Clone (Coding Project)&#xA;React with .NET Web API – Basic App Tutorial&#xA;Razor Pages for ASP.NET Core - Full Course (.NET 6)&#xA;ASP.NET Core Web API .</description>
+    </item>
     <item>
       <title>Markdown Syntax Guide</title>
       <link>http://localhost:1313/posts/markdown-syntax/</link>

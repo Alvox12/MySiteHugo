@@ -2,6 +2,12 @@
 title: "Cursos programación"
 date: 2023-02-22T20:40:31+01:00
 draft: false
+tags:
+  - webdev
+  - css
+  - html
+  - frontend
+  - fullstack
 ---
 
 Agrego un listado de cursos de programación que me parecieron interesantes. 

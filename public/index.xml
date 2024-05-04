@@ -6,8 +6,15 @@
     <description>Recent content on My Blog en Hugo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 22 Feb 2023 20:40:31 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 16:55:43 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math Markdown</title>
+      <link>http://localhost:1313/posts/math-markdown/</link>
+      <pubDate>Sat, 04 May 2024 16:55:43 +0200</pubDate>
+      <guid>http://localhost:1313/posts/math-markdown/</guid>
+      <description>Aquí se muestra como agregar expresiones matemáticas a Hugo:&#xA;Puedes consultar el script en layouts/partials/head.html&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed \(E=mc^2\) non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.&#xA;When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$</description>
+    </item>
     <item>
       <title>Cursos programación</title>
       <link>http://localhost:1313/posts/webdevcourses/</link>
